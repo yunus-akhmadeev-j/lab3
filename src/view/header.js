@@ -3,12 +3,12 @@ import {createElement} from '../framework/render.js';
 
 function createHeaderContTemplate() {
     return (
-        `<header class="header">
+        `<div><header class="header">
     <div>
         <h1>Список задач</h1>
     </div>
-</header>`
-      );
+</header>
+      </div>`);
 }
 
 

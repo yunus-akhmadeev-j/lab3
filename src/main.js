@@ -18,7 +18,7 @@ const taskformContainer=document.querySelector('.newtask-add-button');
 const containerContainer=document.querySelector('.main');
 const taskbasketContainer=document.querySelector('.in-basket');
 const tasksModel = new TasksModel();
-const tasksBoardPresenter = new TasksBoardPresenter({boardContainer: TasksBoardComponent,  TasksModel,});
+const tasksBoardPresenter = new TasksBoardPresenter({boardContainer: TasksBoardComponent,  tasksModel,});
 
 
 
