@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import {createElement} from '../framework/render.js';
 
 
@@ -32,3 +33,39 @@ export default class HeaderCont {
     this.element = null;
   }
 }
+=======
+import {createElement} from '../framework/render.js';
+
+
+function createHeaderContTemplate() {
+    return (
+        `<header class="header">
+    <div>
+        <h1>Список задач</h1>
+    </div>
+</header>`
+      );
+}
+
+
+export default class HeaderCont {
+  getTemplate() {
+    return createHeaderContTemplate();
+  }
+
+
+  getElement() {
+    if (!this.element) {
+      this.element = createElement(this.getTemplate());
+    }
+
+
+    return this.element;
+  }
+
+
+  removeElement() {
+    this.element = null;
+  }
+}
+>>>>>>> cd04d837147e57f89912bdb4c2eb67d9ec6cff69
