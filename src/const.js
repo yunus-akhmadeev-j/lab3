@@ -1,4 +1,3 @@
-
 const Status = {
     BACKLOG: `backlog`,
     PROCESSING: `processing`,
@@ -14,5 +13,4 @@ const StatusLabel = {
     [Status.DONE]: `Готово`,
     [Status.BASKET]: `Корзина`,
   };
-
 export {Status, StatusLabel};

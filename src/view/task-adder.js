@@ -1,4 +1,3 @@
-
 import {createElement} from '../framework/render.js';
 
 
@@ -39,4 +38,3 @@ export default class TaskAdder {
     this.element = null;
   }
 }
-

@@ -1,4 +1,3 @@
-
 export const tasks = [
     {
     'id': `1`,
@@ -45,3 +44,4 @@ export const tasks = [
     'title': `Прочитать Войну и Мир`,
     'status': `in-basket`,
 }
+]

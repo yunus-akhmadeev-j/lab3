@@ -1,4 +1,3 @@
-
 import TasksListComponent from '../view/tasks-list-component.js';
 import TaskComponent from '../view/task-component.js';
 import TaskBoardComponent from '../view/tasks-board-component.js';

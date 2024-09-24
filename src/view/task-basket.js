@@ -1,4 +1,3 @@
-
 import {createElement} from '../framework/render.js';
 
 
@@ -35,4 +34,3 @@ export default class TaskBasket {
     this.element = null;
   }
 }
-

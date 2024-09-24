@@ -1,4 +1,3 @@
-
 const RenderPosition = {
     BEFOREBEGIN: 'beforebegin',
     AFTERBEGIN: 'afterbegin',
@@ -22,5 +21,4 @@ const RenderPosition = {
   
   
   export {RenderPosition, createElement, render};
-
   

@@ -1,4 +1,3 @@
-
 import { createElement } from "../framework/render.js";
 function createTaskComponentTemplate(task) {
     const {title, status} = task;
@@ -34,3 +33,4 @@ export default class TaskComponent{
     removeElement() {
     this.element = null;
     }   
+}
