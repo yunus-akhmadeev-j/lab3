@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 .tasks{
     font-size: 1.5em;
    padding: 20px;
@@ -44,50 +44,4 @@ ul{
     border-radius: 10px 10px 10px 10px ;
     border-left: 9px solid black;
 }
-=======
-.tasks{
-    font-size: 1.5em;
-   padding: 20px;
-   
-    
-}
-ul{
-    list-style: none;
-}
-/* для каждой строки задаем свои свойства */
 
-
-.task1{
-    padding-right: 40px;
-    border-style: hidden;
-    margin-bottom: 20px;
-    background-color: lime;
-    border-radius: 10px 10px 10px 10px ;
-    border-left: 9px solid black;
-
-}
-.task2{
-    padding-right: 40px;
-    border-style: hidden;
-    margin-bottom: 20px;
-    background-color: gold;
-    border-radius: 10px 10px 10px 10px ;
-    border-left: 9px solid black;
-}
-.task3{
-    padding-right: 40px;
-    border-style: hidden;
-    margin-bottom: 20px;
-    background-color: khaki;
-    border-radius: 10px 10px 10px 10px ;
-    border-left: 9px solid black;
-}
-.task4{
-    padding-right: 40px;
-    border-style: hidden;
-    margin-bottom: 20px;
-    background-color: plum;
-    border-radius: 10px 10px 10px 10px ;
-    border-left: 9px solid black;
-}
->>>>>>> cd04d837147e57f89912bdb4c2eb67d9ec6cff69
