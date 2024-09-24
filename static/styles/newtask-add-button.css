@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 
 p.add-button-text::before{
     content: '\002B';
@@ -26,33 +26,3 @@ h2{
 }
 .newtask-add-button{
     max-width: 350px;
-=======
-
-p.add-button-text::before{
-    content: '\002B';
-}
-h2{
-    color: rgb(117, 6, 108);
-}
-.form-text{
-    border-radius: 5px 5px 5px 5px;
-    padding: 5px;
-    font-style: italic;
-    
-}
-.button-add{
-    border-radius: 5px 5px 5px 5px;
-    padding: 5px;
-    
-}
-.button-form{
-    padding: 25px;
-    border-style:hidden;
-    border-radius: 10px 10px 10px 10px;
-    width: 300px;
-    background-color: aqua;
-}
-.newtask-add-button{
-    max-width: 350px;
->>>>>>> cd04d837147e57f89912bdb4c2eb67d9ec6cff69
-}
